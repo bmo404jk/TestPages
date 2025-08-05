@@ -3,18 +3,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .allure/
-.idea/.gitignore
-.idea/dictionaries/buffo.xml
-.idea/encodings.xml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/misc.xml
-.idea/vcs.xml
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/
 *.iws
 *.iml
 *.ipr
